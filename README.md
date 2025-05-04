@@ -79,10 +79,7 @@ http://localhost/your-repo/
 - MySQL/MariaDB
 - Apache/Nginx Server
 - Composer (if dependencies needed)
-
-## 📷 Screenshots
-
-*(Add screenshots of the home page, cart, admin panel, etc.)*
+- 
 
 ## 📄 License
 
